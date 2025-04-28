@@ -1,7 +1,5 @@
 # Qr-code-generator-MERN
 
-# QR Code Generator React App
-
 This is a simple and user-friendly web application built with React that allows you to generate QR codes from any text or URL input.
 
 ## Functionality
