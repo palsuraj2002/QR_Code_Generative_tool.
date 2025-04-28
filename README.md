@@ -8,8 +8,6 @@ This is a simple and user-friendly web application built with React that allows 
 * **Customizable Input:** Supports generating QR codes from various types of data, including URLs, text, email addresses, phone numbers, and more.
 * **Downloadable QR Code:** Provides a button to easily download the generated QR code as a PNG image.
 * **Clear and Intuitive Interface:** A clean and straightforward design makes it easy for anyone to generate QR codes quickly.
-* **Basic Home Page:** Welcomes users and provides a clear call to action to generate a QR code.
-* **Logo Integration:** Features a space for a logo in the header, enhancing brand identity (can be configured with a URL).
 
 ## Tech Stack
 
