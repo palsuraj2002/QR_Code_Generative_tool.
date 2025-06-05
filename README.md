@@ -17,8 +17,6 @@ This is a simple and user-friendly web application built with React that allows 
 * **Express:** A minimal and flexible Node.js web application framework (used for the backend API to generate QR codes).
 * **qrcode (Node.js library):** A JavaScript library for generating QR codes on the server-side.
 * **CORS:** Middleware for Express to enable Cross-Origin Resource Sharing.
-* **react-router-dom:** A library for implementing routing in React applications (for navigation between the home page and the generator).
-* **Git:** Version control system for tracking changes in the codebase.
 * **GitHub:** Platform for hosting and collaborating on Git repositories.
 
 ## How to Use
