@@ -1,11 +1,11 @@
-# Qr-code-generator-MERN
+# Quick Responsive (QR) Code Generator Tool 
 
 This is a simple and user-friendly web application built with React that allows you to generate QR codes from any text or URL input.
 
 ## Functionality
 
 * **Real-time QR Code Generation:** As you type or paste data into the input field, the QR code updates instantly.
-* **Customizable Input:** Supports generating QR codes from various types of data, including URLs, text, email addresses, phone numbers, and more.
+* **Customizable Input:** Supports generating QR codes from various types of data, including URLs, text, email addresses, and phone numbers.
 * **Downloadable QR Code:** Provides a button to easily download the generated QR code as a PNG image.
 * **Clear and Intuitive Interface:** A clean and straightforward design makes it easy for anyone to generate QR codes quickly.
 
@@ -17,7 +17,6 @@ This is a simple and user-friendly web application built with React that allows 
 * **Express:** A minimal and flexible Node.js web application framework (used for the backend API to generate QR codes).
 * **qrcode (Node.js library):** A JavaScript library for generating QR codes on the server-side.
 * **CORS:** Middleware for Express to enable Cross-Origin Resource Sharing.
-* **GitHub:** Platform for hosting and collaborating on Git repositories.
 
 ## How to Use
 
@@ -73,35 +72,7 @@ This is a simple and user-friendly web application built with React that allows 
         * Enter the text or URL you want to encode into the "Enter Url Or Link" input field.
         * The QR code will be generated and displayed in real-time below the input.
         * Click the "Download QR Code" button to save the generated QR code as a PNG image to your device.
-    * **Logo:** The header of the application will display a logo (if you have provided a `logoUrl` in the `App.js` or `index.js` file). Clicking the logo will navigate you back to the home page.
 
-## Project Structure
-your-qr-code-generator-react/
-├── client/
-│   ├── public/
-│   │   └── ...
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Footer.js
-│   │   │   ├── Header.js
-│   │   │   ├── HomePage.js
-│   │   │   └── QRCodeGenerator.js
-│   │   ├── App.js
-│   │   ├── index.js
-│   │   ├── logo.png (or your logo file)
-│   │   └── ...
-│   ├── package.json
-│   ├── package-lock.json
-│   └── README.md (This client-specific README - optional)
-├── server/
-│   ├── routes/
-│   │   └── qrRoutes.js
-│   ├── server.js (or index.js)
-│   ├── package.json
-│   └── package-lock.json
-├── .gitignore
-├── LICENSE (optional)
-└── README.md (The main project README)
 
 Author: Suraj Pal | Made with ❤️ 
 Hope you'll like it.
