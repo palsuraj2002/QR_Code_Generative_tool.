@@ -1,5 +1,7 @@
 # Quick Responsive (QR) Code Generator Tool 
 
+![Screenshot (1)](https://github.com/user-attachments/assets/b033e8f1-257d-458a-9bec-4a1de6352e52)
+![Screenshot (2)](https://github.com/user-attachments/assets/290ee7d6-f8bf-4e66-88fc-353426916188)
 This is a simple and user-friendly web application built with React that allows you to generate QR codes from any text or URL input.
 
 ## Functionality
